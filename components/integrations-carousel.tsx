@@ -31,7 +31,7 @@ import Avatar19 from '@/public/images/avatar-19.jpg'
 
 // Import Swiper
 import Swiper, { Navigation } from 'swiper'
-import 'swiper/swiper.min.css'
+// import 'swiper/swiper.min.css'
 Swiper.use([Navigation])
 
 export default function IntegrationsCarousel() {
